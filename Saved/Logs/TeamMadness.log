@@ -697,3 +697,23 @@ TCP connect to perforce:1666 failed.
 [2020.03.22-08.56.29:819][345]SourceControl: Commited [master (root-commit) c63d49f] First push.
 [2020.03.22-08.56.35:142][928]LogSlate: Window 'Message Log' being destroyed
 [2020.03.22-08.56.35:144][928]LogSlate: Window 'Message Log' being destroyed
+[2020.03.22-08.57.28:919][703]Cmd: DELETE
+[2020.03.22-08.57.28:919][703]Cmd: ACTOR DELETE
+[2020.03.22-08.57.28:922][703]LogEditorActor: Deleted Actor: Actor
+[2020.03.22-08.57.28:945][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.03.22-08.57.28:946][703]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.03.22-08.57.29:635][776]LogActorFactory: Actor Factory created Cube
+[2020.03.22-08.57.29:757][788]LogActorFactory: Actor Factory created Cube
+[2020.03.22-08.57.31:043][929]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.22-08.57.31:083][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.22-08.57.31:225][929]LogSavePackage: Moving '../../../../../../Users/esNaglfar/Documents/Unreal Projects/TeamMadness/Saved/TopDownExampleMapED2DE06C43AAD3A9F2E62D8A3133A323.tmp' to '../../../../../../Users/esNaglfar/Documents/Unreal Projects/TeamMadness/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.03.22-08.57.31:390][929]LogSavePackage: Moving '../../../../../../Users/esNaglfar/Documents/Unreal Projects/TeamMadness/Saved/TopDownExampleMap_BuiltData68B6664746A1A051544FD3850E38D159.tmp' to '../../../../../../Users/esNaglfar/Documents/Unreal Projects/TeamMadness/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.03.22-08.57.31:398][929]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.22-08.57.31:398][929]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.03.22-08.57.31:398][929]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2020.03.22-08.57.34:042][224]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.03.22-08.57.42:428][224]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.22-08.57.43:115][224]LogSourceControl: commit successful: [master 34e12b0] New Cube
+[2020.03.22-08.57.43:148][224]SourceControl: [master 34e12b0] New Cube
+[2020.03.22-08.57.43:148][224]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.03.22-08.57.43:151][224]SourceControl: Commited [master 34e12b0] New Cube.
